@@ -22,3 +22,4 @@ A **Python and Streamlit-based platform** was developed to run the experiment, c
 ---
 
 *Independent research project — designed, developed, and analysed independently.*
+*Developed by Celine Angelica Japardi*
