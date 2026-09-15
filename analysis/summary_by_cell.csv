@@ -1,0 +1,5 @@
+actual,presentation,responses,accuracy,mean_trust,mean_confidence,reliance_rate,missed_error_rate,over_trust_rate,under_trust_rate
+Correct,polished,156,0.891,3.955,3.468,0.769,,,0.045
+Correct,plain,144,0.757,3.069,3.424,0.479,,,0.285
+Incorrect,polished,144,0.312,3.507,3.167,0.604,0.479,0.5,
+Incorrect,plain,156,0.481,2.276,3.141,0.167,0.333,0.096,

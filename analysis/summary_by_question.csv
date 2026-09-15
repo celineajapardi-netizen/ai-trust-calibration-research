@@ -1,0 +1,11 @@
+question_id,topic,actual,judged_correctly_plain,judged_correctly_polished,trust_plain,trust_polished
+1,Science,Correct,0.735,0.885,3.029,3.846
+2,Science,Incorrect,0.471,0.231,2.294,3.577
+3,Computer Science,Correct,0.759,0.903,3.172,3.903
+4,Computer Science,Incorrect,0.433,0.267,2.3,3.333
+5,History,Correct,0.793,0.903,3.138,3.839
+6,History,Incorrect,0.485,0.259,2.0,3.704
+7,Geography,Correct,0.909,0.868,3.182,4.053
+8,Geography,Incorrect,0.548,0.414,2.194,3.621
+9,Environment,Correct,0.633,0.9,2.867,4.1
+10,Environment,Incorrect,0.464,0.375,2.643,3.344
