@@ -1,1 +1,1 @@
-**Live experiment:** (https://ai-calibration-research-celine.streamlit.app)
+**Live experiment:** https://ai-calibration-research-celine.streamlit.app
