@@ -13,7 +13,7 @@ A **Python and Streamlit-based platform** was developed to run the experiment, c
 
 ### Built With
 
-**Python · Streamlit**
+**Python · Streamlit · Pandas · Scipy · Matplotlib · Streamlit Community Cloud**
 
 ### Key Areas
 
