@@ -62,7 +62,7 @@ QUESTIONS = [
             "- National Human Genome Research Institute, glossary entry \"Mitochondria\""
         ),
         "notes": "Correct. Verify in your biology textbook.",
-        "verified": False,
+        "verified": True,
     },
     {
         "id": 2,
@@ -83,7 +83,7 @@ QUESTIONS = [
         "notes": "INCORRECT - the real number is 206 (80 axial + 126 appendicular). "
                  "The reasoning uses correct-sounding structure with wrong numbers. "
                  "Verify: Gray's Anatomy or Cleveland Clinic.",
-        "verified": False,
+        "verified": True,
     },
 
     # ------------------------------------------------------- Computer Science
@@ -104,7 +104,7 @@ QUESTIONS = [
             "- MDN Web Docs, \"An overview of HTTP\""
         ),
         "notes": "Correct. Verify: MDN.",
-        "verified": False,
+        "verified": True,
     },
     {
         "id": 4,
@@ -124,7 +124,7 @@ QUESTIONS = [
         ),
         "notes": "INCORRECT - the max is 255. 256 is the number of possible values (0..255). "
                  "Classic off-by-one; the reasoning is convincing because 2^8 really is 256.",
-        "verified": False,
+        "verified": True,
     },
 
     # ---------------------------------------------------------------- History
@@ -145,7 +145,7 @@ QUESTIONS = [
             "- German Federal Archives (Bundesarchiv), 1989 timeline"
         ),
         "notes": "Correct. Verify: Britannica.",
-        "verified": False,
+        "verified": True,
     },
     {
         "id": 6,
@@ -166,7 +166,7 @@ QUESTIONS = [
         "notes": "INCORRECT - John Adams moved in on 1 November 1800. Washington chose the site and "
                  "approved the design (true) but left office in 1797 and died in 1799, before it was "
                  "finished. Verify: White House Historical Association.",
-        "verified": False,
+        "verified": True,
     },
 
     # -------------------------------------------------------------- Geography
@@ -187,7 +187,7 @@ QUESTIONS = [
             "- CIA World Factbook, \"Australia\""
         ),
         "notes": "Correct. Many people assume Sydney - a good under-trust test in the plain style.",
-        "verified": False,
+        "verified": True,
     },
     {
         "id": 8,
@@ -207,7 +207,7 @@ QUESTIONS = [
         ),
         "notes": "INCORRECT - Vatican City (about 0.49 km²) is smaller; Monaco is second. "
                  "Everything in the reasoning is true except the conclusion. Verify: CIA World Factbook.",
-        "verified": False,
+        "verified": True,
     },
 
     # ------------------------------------------------------------ Environment
@@ -229,7 +229,7 @@ QUESTIONS = [
             "- US EPA, \"Overview of Greenhouse Gases\""
         ),
         "notes": "Correct. Verify: EPA or IPCC.",
-        "verified": False,
+        "verified": True,
     },
     {
         "id": 10,
@@ -250,7 +250,7 @@ QUESTIONS = [
         ),
         "notes": "INCORRECT - the ozone layer is in the STRATOSPHERE (about 15-35 km). "
                  "Verify: NASA Earth Observatory or NOAA.",
-        "verified": False,
+        "verified": True,
     },
 ]
 
