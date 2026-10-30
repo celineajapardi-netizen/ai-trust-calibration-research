@@ -22,13 +22,13 @@ The research platform was developed using Python and Streamlit to provide an int
 
 ### Experimental Interface
 
-![Experimental Interface](experiment-interface.png)
+![Experimental Interface](experimentinterface.png)
 
 *The interface where users evaluate AI-generated answers based on correctness, confidence, trust and intended reliance.*
 
 ### Completion Page
 
-![Completion Page](thank-you.png)
+![Completion Page](Thankyou.png)
 
 *The final page displayed upon completion of the experiment.*
 
