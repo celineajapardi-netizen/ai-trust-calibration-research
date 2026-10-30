@@ -10,6 +10,28 @@ A **Python and Streamlit-based platform** was developed to run the experiment, r
 
 🌐 [**Experiment Website**](https://ai-calibration-research-celine.streamlit.app/)
 
+## Platform Preview
+
+The research platform was developed using Python and Streamlit to provide an interactive environment for evaluating AI-generated information.
+
+### Experimental Homepage
+
+![Experimental Homepage](homepage.png)
+
+*The landing page introducing the study and its instructions.*
+
+### Experimental Interface
+
+![Experimental Interface](experiment-interface.png)
+
+*The interface where users evaluate AI-generated answers based on correctness, confidence, trust and intended reliance.*
+
+### Completion Page
+
+![Completion Page](thank-you.png)
+
+*The final page displayed upon completion of the experiment.*
+
 📄 [**Read the Full Research Paper (PDF)**](Research%20Paper%20~%20AI%20Trust%20Calibration%20Research.pdf)
 
 ### Built With
