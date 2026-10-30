@@ -10,7 +10,7 @@ A **Python and Streamlit-based platform** was developed to run the experiment, r
 
 🌐 [**Experiment Website**](https://ai-calibration-research-celine.streamlit.app/)
 
-📄 **Research Paper**
+📄 [**Research Paper**](Research Paper ~ AI Trust Calibration Research.pdf)
 
 ### Built With
 
