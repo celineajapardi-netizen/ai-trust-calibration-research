@@ -1,19 +1,20 @@
 # When Should We Trust AI?
 
-**An independent research project examining how people judge the reliability of AI-generated information, with a focus on whether trust matches actual accuracy.**
+**An independent research project examining how people judge the reliability of AI-generated information, and whether their trust reflects the accuracy of the answers they receive.**
 
-The study uses a controlled online experiment to investigate how **AI confidence signals, supporting evidence, and uncertainty** influence people's judgments of AI-generated answers. Participants evaluate a set of answers and report their perceived correctness, confidence, and level of trust.
+This project explores how the presentation of AI-generated answers can influence people's judgments of their reliability. In particular, it examines whether answers presented in a more polished and confident manner are trusted differently from those presented more plainly, even when their accuracy is the same.
 
-A **Python and Streamlit-based platform** was developed to run the experiment, collect anonymised responses, and analyse the resulting data.
+A **Python and Streamlit-based platform** was developed to run the experiment, record anonymised responses, and support the analysis of participants' judgments, confidence, and trust.
 
 ### Project Links
 
-🌐 **[Experiment Website](https://ai-calibration-research-celine.streamlit.app)**
-📄 **[Research Paper](YOUR-RESEARCH-PAPER-LINK)**
+🌐 [**Experiment Website**](https://ai-calibration-research-celine.streamlit.app/)
+
+📄 **Research Paper**
 
 ### Built With
 
-**Python · Streamlit · Pandas · Scipy · Matplotlib · Streamlit Community Cloud**
+**Python · Streamlit · Pandas · SciPy · Matplotlib · Streamlit Community Cloud**
 
 ### Key Areas
 
@@ -24,3 +25,5 @@ A **Python and Streamlit-based platform** was developed to run the experiment, c
 *Independent research project — designed, developed, and analysed independently.*
 
 *Developed by Celine Angelica Japardi*
+
+**Note:** The current analysis uses simulated response data and is intended for exploratory purposes.
